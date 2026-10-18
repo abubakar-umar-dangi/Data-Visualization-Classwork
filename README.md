@@ -1,15 +1,14 @@
-# Data Visualization Exercises — Improved Edition
+# Data Visualization Exercises
 
-This is a **new, separate version** of the original coursework repository. The original folders are not overwritten.
+Weekly data visualization exercises from my MSc Data Science course: Jupyter notebooks (weeks 2–8) and two Streamlit dashboards (weeks 9–10), built with Python, Pandas and Plotly.
 
-## What changed
+## Highlights
 
-- Replaced the original exercise datasets with more focused datasets.
-- Increased analytical variety: flowers, financial time series, wine chemistry, restaurant bills, global development, car-share demand and African economic geography.
-- Reworked every exercise around a clear visualization question.
-- Added consistent chart design, informative titles and more meaningful labels.
-- Added two refreshed Streamlit dashboards.
-- Added a single `requirements.txt` for reproducibility.
+- Seven datasets covering flowers, financial time series, wine chemistry, restaurant bills, global development, car-share demand and African economic geography (with a GeoJSON map).
+- Every exercise is built around one clear visualization question.
+- Consistent chart design, with informative titles and meaningful labels.
+- Two interactive Streamlit dashboards.
+- A single `requirements.txt` for reproducibility.
 
 ## Structure
 
